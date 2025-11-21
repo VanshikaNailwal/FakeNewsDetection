@@ -11,8 +11,8 @@ import time
 # -------------------------
 # Paths
 # -------------------------
-MODEL_PATH = r"C:\Users\vansh\OneDrive\Desktop\new_classification\data\logistic_regression.pkl"
-VECTORIZER_PATH = r"C:\Users\vansh\OneDrive\Desktop\new_classification\data\bow_vectorizer.pkl"
+MODEL_PATH = "logistic_regression.pkl"
+VECTORIZER_PATH = "bow_vectorizer.pkl"
 
 # -------------------------
 # Load model & vectorizer
@@ -259,4 +259,5 @@ with tab5:
 
     The goal is to make fake news detection understandable and user-friendly.
     """)
+
 
