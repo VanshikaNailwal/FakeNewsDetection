@@ -11,8 +11,8 @@ from sklearn.feature_extraction.text import ENGLISH_STOP_WORDS
 # -------------------------
 # Paths (use full absolute paths)
 # -------------------------
-MODEL_PATH = r"C:\Users\vansh\OneDrive\Desktop\new_classification\data\logistic_regression.pkl"
-VECTORIZER_PATH = r"C:\Users\vansh\OneDrive\Desktop\new_classification\data\tfidf_vectorizer.pkl"
+MODEL_PATH = "logistic_regression.pkl"
+VECTORIZER_PATH = "tfidf_vectorizer.pkl"
 
 # -------------------------
 # Utility: small cleaning function (must match training preprocessing)
@@ -288,4 +288,5 @@ with tab5:
 
     The goal is to make fake news detection understandable and user-friendly.
     """)
+
 
