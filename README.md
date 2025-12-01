@@ -1,2 +1,2 @@
 # FakeNewsDetection
-ML Project using svm, naive bayes , logistics regression----vectorisation --bag of words 
+ML Project using svm, naive bayes , logistics regression----vectorisation --tfidf
